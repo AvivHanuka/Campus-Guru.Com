@@ -1,0 +1,19 @@
+{
+  "heading": "Sign Up",
+  "firstName": "First name",
+  "firstNameRequired": "First name is required",
+  "lastName": "Last Name",
+  "lastNameRequired": "Last name is required",
+  "username": "Username",
+  "usernameRequired": "Username is required",
+  "email": "Email Address",
+  "emailRequired": "Email is required",
+  "password": "Password",
+  "passwordRequired": "Password is required",
+  "signup": "Sign up",
+  "signupSuccess": "Registration successful",
+  "signupFail": "Registration Failed",
+  "signInWith": "Or sign in with",
+  "already": "Already have account?",
+  "signIn": "Login In Now"
+}

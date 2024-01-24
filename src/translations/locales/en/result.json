@@ -1,0 +1,15 @@
+{
+  "searchingFor": "Searching for {{search}}...",
+  "results": "{{n}} Results for “{{search}}” ",
+  "noresult": "No result for “{{search}}” ",
+  "searchPlaceholder": "Behavioral Psycology 02",
+  "searchButton": "Search",
+  "filter": "Filter by institute",
+  "paginationInfo": "{{itemPerPage}} Results, page {{page}} out of {{totalPages}}",
+  "institute": "Institute",
+  "professor": "Professor",
+  "courses": "Courses",
+  "faculty": "Faculty",
+  "courseId": "Course ID",
+  "professorId": "Professor ID"
+}

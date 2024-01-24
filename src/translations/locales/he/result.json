@@ -1,0 +1,15 @@
+{
+  "searchingFor": "מחפש תוצאות עבור {{search}}...",
+  "results": "{{n}} תוצאות עבור “{{search}}” ",
+  "noresult": "לא מצאנו תוצאות עבור “{{search}}” ",
+  "searchPlaceholder": "פסיכולוגיה התנהגותית 2",
+  "searchButton": "חפש/י",
+  "filter": "סנן לפי מוסד לימודים",
+  "paginationInfo": "{{itemPerPage}} תוצאות, עמוד {{page}} מתוך {{totalPages}} עמודים",
+  "institute": "מוסד לימודים",
+  "professor": "מרצה",
+  "courses": "קורסים",
+  "faculty": "פקולטה",
+  "courseId": "קוד קורס",
+  "professorId": "קוד מרצה"
+}

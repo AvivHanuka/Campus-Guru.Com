@@ -1,0 +1,19 @@
+{
+  "header": {
+    "menu1": "החזון שלנו",
+    "menu2": "עמוד הבית ",
+    "login": "Sign In",
+    "logout": "Logout"
+  },
+  "footer": {
+    "menu1": "תנאי פרטיות",
+    "menu2": "תנאי שימוש",
+    "menu3": "החזון שלנו",
+    "menu4": "צור קשר",
+    "text": "כל הזכויות שמורות לקפוס גורו"
+  },
+  "language": {
+    "text": "שפות"
+  },
+  "signInGoogle": "Sign in with Google"
+}

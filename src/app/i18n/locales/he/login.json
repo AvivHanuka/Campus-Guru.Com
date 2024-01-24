@@ -1,0 +1,14 @@
+{
+  "heading": "התחברות לחשבון",
+  "description": "על מנת לשמור על אמינות חוות הדעת, רק משתמשים רשומים יכולים לתרום לאתר",
+  "email": "Email Address",
+  "emailRequired": "Email is required",
+  "password": "Password",
+  "passwordRequired": "Password is required",
+  "login": "Log in",
+  "loginSuccess": "Login successful",
+  "loginFail": "Login Failed",
+  "signInWith": "Or sign in with",
+  "noAccount": "Don't have account",
+  "signUp": "Sign up Now"
+}

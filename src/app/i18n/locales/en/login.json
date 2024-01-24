@@ -1,0 +1,14 @@
+{
+  "heading": "Log in",
+  "description": "In order to maintain our reviews reliability, only registered accounts can leave a review",
+  "email": "Email Address",
+  "emailRequired": "Email is required",
+  "password": "Password",
+  "passwordRequired": "Password is required",
+  "login": "Log in",
+  "loginSuccess": "Login successful",
+  "loginFail": "Login Failed",
+  "signInWith": "Or sign in with",
+  "noAccount": "Don't have account",
+  "signUp": "Sign up Now"
+}

@@ -1,0 +1,74 @@
+{
+  "header": {
+    "menu1": "Our Vision",
+    "menu2": "Home",
+    "login": "Sign In",
+    "logout": "Logout"
+  },
+  "footer": {
+    "menu1": "Privacy Policy",
+    "menu2": "Terms of use",
+    "menu3": "Our vision",
+    "menu4": "Contact us",
+    "text": "All Rights are Reserved to CampusGuru"
+  },
+  "courseDialog": {
+    "heading": "We Would Love to Hear Your Opinion Regarding:",
+    "authorNamePlaceholder": "Presented Name",
+    "rate": "Rate the following categories on a scale of 1 (worst) to 5(the best)",
+    "courseContent": "Content Simplicity\n(1 very hard 5 Being easy)",
+    "degreeRelevance": "Level of Interest\n ",
+    "courseStructure": "Time Consumption\n(1 very high and 5 very low)",
+    "difficultyLevel": "Grading\n(1 being very hard and 5 being easy)",
+    "openReview": "Open Review",
+    "commentPlaceholder": "Type Here...",
+    "terms": "I have Read and agree with the website’s terms and agreements",
+    "post": "Post",
+    "cancel": "Cancel"
+  },
+  "courseReportDialog": {
+    "heading": "Report a course: ",
+    "reasonLabel": "Reason of Report",
+    "misguiding": "Misguiding Information",
+    "spam": "Spam",
+    "misplacement": "Misplacement",
+    "harmful": "Harmful Language",
+    "other": "Other",
+    "detailsLabel": "Please Describe Your Reporting Claim",
+    "detailsPlaceholder": "Type Here...",
+    "terms": "I have Read and agree with the website’s terms and agreements",
+    "submit": "Report",
+    "cancel": "Cancel"
+  },
+  "professorDialog": {
+    "heading": "We Would Love to Hear Your Opinion Regarding Professor: ",
+    "authorNamePlaceholder": "Presented Name",
+    "rate": "Rate the following categories on a scale of 1 (worst) to 5(the best)",
+    "interpersonalRelationships": "Interpersonal Relationships",
+    "professionalKnowledge": "Professional knowledge",
+    "teachingMethod": "Teaching method",
+    "openReview": "Open Review",
+    "commentPlaceholder": "Type Here...",
+    "terms": "I have Read and agree with the website’s terms and agreements",
+    "post": "Post",
+    "cancel": "Cancel"
+  },
+  "professorReportDialog": {
+    "heading": "Report Professor: ",
+    "reasonLabel": "Reason of Report",
+    "misguiding": "Misguiding Information",
+    "spam": "Spam",
+    "misplacement": "Misplacement",
+    "harmful": "Harmful Language",
+    "other": "Other",
+    "detailsLabel": "Please Describe Your Reporting Claim",
+    "detailsPlaceholder": "Type Here...",
+    "terms": "I have Read and agree with the website’s terms and agreements",
+    "submit": "Report",
+    "cancel": "Cancel"
+  },
+  "language": {
+    "text": "Languages"
+  },
+  "signInGoogle": "Sign in with Google"
+}

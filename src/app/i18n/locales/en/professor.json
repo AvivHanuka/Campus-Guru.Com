@@ -1,0 +1,21 @@
+{
+  "addReview": "Add a rating",
+  "report": "Report",
+  "institute": "Institute",
+  "faculty": "Faculty",
+  "interpersonalRelationships": "Interpersonal Relationships",
+  "professionalKnowledge": "Professional knowledge",
+  "teachingMethod": "Teaching method",
+  "average": "Average",
+  "reviews": "{{n}} Reviews",
+  "moreCourses": "More courses by this teacher",
+  "professor": "Professor",
+  "courseId": "Course ID",
+  "professorReviews": "Professor Reviews",
+  "AddRating": "Add a rating",
+  "paginationInfo": "{{itemPerPage}} Results, page {{page}} out of {{totalPages}}",
+  "allReviews": "All rates",
+  "proficiency": "Proficiency",
+  "recommended": "Recommended for you",
+  "additionalCourses": "Additional courses rated by students from the {{subject}}"
+}

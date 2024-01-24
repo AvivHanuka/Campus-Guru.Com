@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 224 71.4% 4.1%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 224 71.4% 4.1%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 224 71.4% 4.1%;
+
+    --primary: 234 88% 70%;
+    --primary-foreground: 210 20% 98%;
+
+    --secondary: 236 87.5% 96.9%;
+    --secondary-foreground: 220.9 39.3% 11%;
+
+    --muted: 220 14.3% 95.9%;
+    --muted-foreground: 215 19% 34%;
+
+    --accent: 220 14.3% 95.9%;
+    --accent-foreground: 220.9 39.3% 11%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 20% 98%;
+
+    --border: 236 87.5% 96.9%;
+    --input: 236 87.5% 96.9%;
+    --ring: 215, 98%, 61%;
+
+    --radius: 0.625rem;
+  }
+
+  .dark {
+    --background: 224 71.4% 4.1%;
+    --foreground: 210 20% 98%;
+
+    --card: 224 71.4% 4.1%;
+    --card-foreground: 210 20% 98%;
+
+    --popover: 224 71.4% 4.1%;
+    --popover-foreground: 210 20% 98%;
+
+    --primary: 263.4 70% 50.4%;
+    --primary-foreground: 210 20% 98%;
+
+    --secondary: 215 27.9% 16.9%;
+    --secondary-foreground: 210 20% 98%;
+
+    --muted: 215 27.9% 16.9%;
+    /*--muted-foreground: 217.9 10.6% 64.9%;*/
+    --muted-foreground: 215 32% 41%;
+
+    --accent: 215 27.9% 16.9%;
+    --accent-foreground: 210 20% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 20% 98%;
+
+    /*--border: 215 27.9% 16.9%;*/
+    /*--input: 215 27.9% 16.9%;*/
+    --border: 236 87.5% 96.9%;
+    --input: 236 87.5% 96.9%;
+    --ring: 263.4 70% 50.4%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer components {
+  .tw-table-td {
+    @apply whitespace-nowrap px-3 py-3 text-base text-gray-500  border-r border-slate-300;
+  }
+  .tw-table-th {
+    @apply px-3 py-3.5 text-left text-lg font-semibold text-gray-900 border-l border-slate-300;
+  }
+  .tw-table-span {
+    @apply inline-flex rounded-full px-3  font-normal p-1 text-base leading-5 text-white;
+  }
+}
+
+.dialogContent {
+  height: auto;
+}
+@media screen and (max-height: 700px) {
+  .dialogContent {
+    height: 100%;
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "addReview": "הוסף דירוג",
+  "report": "דיווח",
+  "institute": "מוסד אקדמי",
+  "faculty": "פקולטה",
+  "interpersonalRelationships": "יחסים בין-אישיים",
+  "professionalKnowledge": "ידע מקצועי",
+  "teachingMethod": "שיטת הוראה",
+  "average": "ממוצע",
+  "reviews": "{{n}} דירוגים",
+  "moreCourses": "קורסים נוספים ב{{subject}}",
+  "professor": "מרצה",
+  "courseId": "מספר קורס",
+  "professorReviews": "דירוגי המרצה",
+  "AddRating": "הוסף דירוג",
+  "paginationInfo": "{{itemPerPage}} תוצאות, עמוד {{page}} מתוך {{totalPages}} עמודים",
+  "allReviews": "כל הדירוגים",
+  "proficiency": "מתאים לרמת ידע",
+  "recommended": "מומלץ עבורך",
+  "additionalCourses": "קורסים נוספים שדורגו בנושא {{subject}}"
+}
